@@ -1,2 +1,2 @@
-# buffer-command-histor
+# buffer-command-history
 
