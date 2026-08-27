@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BufferCommandHistory/BufferCommandHistory.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BufferCommandHistory.Tests/BufferCommandHistory.Tests.csproj" />
+  </Folder>
+</Solution>
